@@ -60,7 +60,8 @@ Here are some ideas to get you started:
   <img src = "https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="40" height="40"/> &nbsp;
   <img src = "https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="40" height="40"/> &nbsp;
   <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="60" height="60"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" />        
+  <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" width="60" height="60"/> &nbsp;
+  <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="60" height="60"/> &nbsp;
   <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="50" height="50"/> &nbsp;
   
 </div>
