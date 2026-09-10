@@ -15,5 +15,5 @@ Currently exploring **system design, Kafka, Redis, Kubernetes, and PostgreSQL**.
 
 ### 🚀 Featured
 
-- [High-Throughput Notification System]([your-link](https://github.com/tusharmukherjee/notification-service))
-- [Grow Media]([your-link](https://github.com/tusharmukherjee/Grow_Media))
+- [High-Throughput Notification System](https://github.com/tusharmukherjee/notification-service)
+- [Grow Media](https://github.com/tusharmukherjee/Grow_Media)
