@@ -1,4 +1,4 @@
-# Hi, I'm Tushar 👋
+# Hi, I'm Tushar
 
 ### Software Engineer | Node.js · TypeScript · Distributed Systems
 
