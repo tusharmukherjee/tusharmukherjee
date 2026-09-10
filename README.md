@@ -55,25 +55,22 @@ Here are some ideas to get you started:
  -->
 
 
-<div align="center">
-  <h1>Tech I Knows</h1>
-  <img src = "https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/> &nbsp;
-  <img src = "https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="40" height="40"/> &nbsp;
-  <img src = "https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40" height="40"/> &nbsp;
-  <img src = "https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" width="40" height="40"/> &nbsp;
-  <img src = "https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" width="40" height="40"/> &nbsp;
-  <img src = "https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40"/> &nbsp;
-  <img src = "https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="40" height="40"/> &nbsp;
-  <img src = "https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="40" height="40"/> &nbsp;
-  <img src = "https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="40" height="40"/> &nbsp;
-  <img src = "https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/> &nbsp;
-  <img src = "https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40"/> &nbsp;
-  <img src = "https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40" height="40"/> &nbsp;
-  <img src = "https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="40" height="40"/> &nbsp;
-  <img src = "https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="40" height="40"/> &nbsp;
-  <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="60" height="60"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" width="60" height="60"/> &nbsp;
-  <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="60" height="60"/> &nbsp;
-  <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="50" height="50"/> &nbsp;
-  
-</div>
+## 🛠 Tech Stack
+
+**Frontend**
+React · Next.js
+
+**Backend**
+Node.js · Express · JavaScript · TypeScript
+
+**Databases & Caching**
+MongoDB · PostgreSQL · Redis
+
+**Messaging**
+Kafka
+
+**Infrastructure**
+Docker · Kubernetes · Nginx
+
+**Observability**
+Prometheus · Grafana
