@@ -25,6 +25,18 @@
  <br>
  <br>
  <br>
+
+ # Hi, I'm Tushar 👋
+
+### Backend Engineer | Node.js | Distributed Systems | Kafka | Redis | Kubernetes
+
+I build backend systems, APIs, event-driven services, and scalable infrastructure.
+
+Currently exploring:
+- Distributed systems & system design
+- Kafka and event-driven architectures
+- Redis caching and rate limiting
+- Kubernetes, observability, and performance engineering
 <!-- #### #OpenToWork 🏋️‍♂ [LinkedIn](https://www.linkedin.com/in/tusharmkj) | [Linktree](https://linktr.ee/tusharmukherjee) -->
 
 <!-- 
