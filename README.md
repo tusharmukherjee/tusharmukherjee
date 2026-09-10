@@ -1,4 +1,5 @@
-# Hi, I'm 7u5h42
+# Hi, I'm 7u5h42<br>
+trying to communicate with AI 🧐
 
 ### Software Engineer | Node.js · TypeScript · Distributed Systems
 
