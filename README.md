@@ -1,48 +1,19 @@
- # Hi, I'm Tushar 👋
+# Hi, I'm Tushar 👋
 
-### Backend Engineer | Node.js | Distributed Systems | Kafka | Redis | Kubernetes
+### Software Engineer | Node.js · TypeScript · Distributed Systems
 
-I build backend systems, APIs, event-driven services, and scalable infrastructure.
+Building scalable backend systems, APIs, and event-driven applications.
 
-Currently exploring:
-- Distributed systems & system design
-- Kafka and event-driven architectures
-- Redis caching and rate limiting
-- Kubernetes, observability, and performance engineering
-<!-- #### #OpenToWork 🏋️‍♂ [LinkedIn](https://www.linkedin.com/in/tusharmkj) | [Linktree](https://linktr.ee/tusharmukherjee) -->
+Currently exploring **system design, Kafka, Redis, Kubernetes, and PostgreSQL**.
 
-<!-- 
-**TusharMukherjee/tusharmukherjee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠 Tech
 
-Here are some ideas to get you started:
+**Backend:** Node.js · TypeScript · Express · NestJS  
+**Data:** MongoDB · PostgreSQL · Redis · Kafka  
+**Infra:** Docker · Kubernetes · AWS · Nginx  
+**Frontend:** React · Redux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
- -->
+### 🚀 Featured
 
-
-## 🛠 Tech Stack
-
-**Frontend**
-React · Next.js
-
-**Backend**
-Node.js · Express · JavaScript · TypeScript
-
-**Databases & Caching**
-MongoDB · PostgreSQL · Redis
-
-**Messaging**
-Kafka
-
-**Infrastructure**
-Docker · Kubernetes · Nginx
-
-**Observability**
-Prometheus · Grafana
+- [High-Throughput Notification System](your-link)
+- [Grow Media](your-link)
