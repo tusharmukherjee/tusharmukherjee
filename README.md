@@ -1,9 +1,10 @@
-# Hi, I'm Tushar
+# Hi, I'm Tushar 🤓
 
 ### Software Engineer | Node.js · TypeScript · Distributed Systems
 
-Building scalable backend systems, APIs, and event-driven applications.
-Currently exploring **system design, Kafka, Redis, Kubernetes, and PostgreSQL**.
+Building scalable backend systems, APIs, and event-driven applications.<br>
+Currently exploring **System Design, Kafka, Redis, Kubernetes, and PostgreSQL**.
+
 
 ### 🛠 Tech
 
