@@ -1,9 +1,8 @@
 # Hi, I'm 7u5h42<br>
-
 ### Software Engineer | Node.js · TypeScript · Distributed Systems
 
-Building scalable backend systems, APIs, and event-driven applications.<br>
-Currently exploring **System Design, Kafka, Redis, Kubernetes, and PostgreSQL**.
+- Building scalable Backend systems, APIs, Event-Driven Applications and _managing AI_.<br>
+- Currently exploring **System Design, Kafka, Redis, Kubernetes, and PostgreSQL**.
 
 
 ### 🛠 Tech
